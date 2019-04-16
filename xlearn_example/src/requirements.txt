@@ -1,0 +1,4 @@
+pandas==0.22.0
+cmake==3.13.3
+xlearn==0.40a1
+scikit-learn==0.20.0
