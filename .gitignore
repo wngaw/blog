@@ -1,3 +1,5 @@
 .DS_Store
 **/ml-1m/*
 **/ml-100k/*
+*.csv
+*.png
